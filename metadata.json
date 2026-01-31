@@ -1,0 +1,7 @@
+{
+  "name": "Messy Adda - Premier Café Sion",
+  "description": "A premium, responsive restaurant website for Messy Adda café in Sion, Mumbai, featuring a dynamic menu, best sellers, and warm café aesthetics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
